@@ -1,0 +1,11 @@
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\bin\Debug\netcoreapp2.0\FIHR.deps.json
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\bin\Debug\netcoreapp2.0\FIHR.runtimeconfig.json
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\bin\Debug\netcoreapp2.0\FIHR.runtimeconfig.dev.json
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\bin\Debug\netcoreapp2.0\FIHR.dll
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.csprojResolveAssemblyReference.cache
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.csproj.CoreCompileInputs.cache
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.AssemblyInfoInputs.cache
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.AssemblyInfo.cs
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\bin\Debug\netcoreapp2.0\FIHR.pdb
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.dll
+C:\Users\Rik\Documents\Visual Studio 2017\Projects\FIHR\FIHR\obj\Debug\netcoreapp2.0\FIHR.pdb
