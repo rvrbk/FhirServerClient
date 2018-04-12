@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\bin\Debug\netcoreapp2.0\FHIR.deps.json
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\bin\Debug\netcoreapp2.0\FHIR.runtimeconfig.json
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\bin\Debug\netcoreapp2.0\FHIR.runtimeconfig.dev.json
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\bin\Debug\netcoreapp2.0\FHIR.dll
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\bin\Debug\netcoreapp2.0\FHIR.pdb
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.AssemblyInfo.cs
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.dll
+D:\Projects\Visual Studio\fhir-server-client-example\FIHR\obj\Debug\netcoreapp2.0\FHIR.pdb

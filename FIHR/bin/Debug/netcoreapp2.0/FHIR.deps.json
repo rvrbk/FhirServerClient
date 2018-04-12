@@ -21,7 +21,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "FIHR/1.0.0": {
+      "FHIR/1.0.0": {
         "dependencies": {
           "Hl7.Fhir.STU3": "0.94.0",
           "Microsoft.AspNetCore.All": "2.0.5",
@@ -31,10 +31,10 @@
           "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
-          "FIHR.dll": {}
+          "FHIR.dll": {}
         },
         "compile": {
-          "FIHR.dll": {}
+          "FHIR.dll": {}
         }
       },
       "Hl7.Fhir.STU3/0.94.0": {
@@ -4261,7 +4261,7 @@
     }
   },
   "libraries": {
-    "FIHR/1.0.0": {
+    "FHIR/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Hl7.Fhir.Model;
 using Hl7.Fhir.Rest;
-using Hl7.Fhir.Serialization;
-using Newtonsoft.Json.Linq;
+using FHIR.CutomActions;
 
-namespace FIHR.Controllers
+namespace FHIR.Controllers
 {
     [Route("")]
     public class HomeController : Controller
@@ -42,11 +40,7 @@ namespace FIHR.Controllers
             patient.BirthDate = "2004-03-10";
             patient.Active = true;
 
-            FhirJsonSerializer serializer = new FhirJsonSerializer();
-
-            string jstring = serializer.SerializeToString(patient);
-
-            return Content(jstring, "application/json"); 
+            return new FhirJsonResult(patient); 
         }
 
         [Route("get/{id}")]
